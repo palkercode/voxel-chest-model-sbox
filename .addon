@@ -1,0 +1,20 @@
+{
+  "Title": "Voxel Chest",
+  "Type": "content",
+  "Org": "plkr",
+  "Ident": "voxel_chest",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "Summary": "A chest prop made with voxel style",
+    "Description": "",
+    "Public": true,
+    "ReplaceTags": "voxel prop chest"
+  }
+}
